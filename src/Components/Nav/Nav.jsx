@@ -8,9 +8,7 @@ const Nav = () => {
 
         {/* Logo */}
         <div>
-          <h1 className="text-2xl font-bold text-blue-600">
-            <span className="text-black"></span>
-          </h1>
+       
         </div>
 
         {/* Menu */}

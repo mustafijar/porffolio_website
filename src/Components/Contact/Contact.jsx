@@ -48,7 +48,7 @@ const Contact = () => {
                 </p>
 
                 <p className="font-semibold">
-                  your@email.com
+                 mustafijarrahanammoon@gmail.com
                 </p>
               </div>
 
@@ -58,7 +58,7 @@ const Contact = () => {
                 </p>
 
                 <p className="font-semibold">
-                  +880 1XXXXXXXXX
+                  01796060725
                 </p>
               </div>
 
@@ -68,7 +68,7 @@ const Contact = () => {
                 </p>
 
                 <p className="font-semibold">
-                  Bangladesh
+                 Dhaka,Bangladesh
                 </p>
               </div>
 

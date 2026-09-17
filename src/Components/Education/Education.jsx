@@ -12,7 +12,7 @@ const Education = () => {
     },
     {
       degree: "Higher Secondary Certificate",
-      institution: "Your College Name",
+      institution: "Collectorate School and College",
       subject: "Science",
       year: "2020 - 2022",
       description:
@@ -20,7 +20,7 @@ const Education = () => {
     },
     {
       degree: "Secondary School Certificate",
-      institution: "Your School Name",
+      institution: "Bir Uttam Shaheed Samad High School",
       subject: "Science",
       year: "2018 - 2020",
       description:
@@ -54,7 +54,7 @@ const Education = () => {
             <div key={index} className="mb-12 ml-8 relative">
 
               {/* Circle */}
-              <div className="absolute -left-[42px] top-1 w-5 h-5 bg-blue-600 rounded-full border-4 border-white shadow"></div>
+              <div className="absolute-left-[42px] top-1 w-5 h-5 bg-blue-600 rounded-full border-4 border-white shadow"></div>
 
               {/* Card */}
               <div className="bg-gray-50 p-6 rounded-2xl border border-gray-100 hover:shadow-lg transition">

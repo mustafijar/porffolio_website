@@ -12,6 +12,10 @@ import Achivement from './Components/Achivement/Achivement'
 import Contact from './Components/Contact/Contact'
 import Footer from './Components/Footer/Footer'
 import Nav from './Components/Nav/Nav'
+import Services from './Components/Services/Services'
+import TechStack from './Components/TechStack/TechStack'
+import Interactive from './Components/Interactive/Interactive'
+import CurrentlyLearning from './Components/CurrentlyLearning/CurrentlyLearning'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -22,10 +26,14 @@ function App() {
    <Herosection></Herosection>
    <About></About>
    <Skill></Skill>
+   <Services></Services>
+   <TechStack></TechStack>
    <Project></Project>
    <Education></Education>
    <Experience></Experience>
+   <CurrentlyLearning></CurrentlyLearning>
    <Achivement></Achivement>
+   <Interactive></Interactive>
    <Contact></Contact>
    <Footer></Footer>
    <Home></Home>
