@@ -1,5 +1,10 @@
 import React from 'react'
-
+import tourImg from "../../assets/TourGuide.jpg"
+import portfolioImg from "../../assets/portfolio.jpg"
+import umsIng from "../../assets/ums.jpg"
+import ecommIng from "../../assets/e-comm.jpg"
+import hostitalIng from "../../assets/hospital.jpg"
+import wealIng from "../../assets/wea.jpg"
 const Project = () => {
      const projects = [
     {
@@ -7,7 +12,7 @@ const Project = () => {
       description:
         "A modern tourism website where users can explore beautiful tourist destinations and manage their travel plans.",
       technologies: "React • Tailwind CSS • JavaScript",
-      image: "https://via.placeholder.com/600x350",
+      image: tourImg,
       github: "https://github.com/",
       live: "https://example.com/",
     },
@@ -16,7 +21,7 @@ const Project = () => {
       description:
         "A responsive personal portfolio website designed to showcase my skills, projects and professional journey.",
       technologies: "React • Tailwind CSS • DaisyUI",
-      image: "https://via.placeholder.com/600x350",
+      image: portfolioImg,
       github: "https://github.com/",
       live: "https://example.com/",
     },
@@ -25,7 +30,7 @@ const Project = () => {
       description:
         "A simple management system for handling student information, records and academic data.",
       technologies: "Java • MySQL • Spring Boot",
-      image: "https://via.placeholder.com/600x350",
+      image: umsIng,
       github: "https://github.com/",
       live: "https://example.com/",
     },
@@ -34,7 +39,7 @@ const Project = () => {
   description:
     "A responsive online shopping platform where users can browse products, view product details and manage their shopping cart.",
   technologies: "React • JavaScript • Tailwind CSS",
-  image: "https://via.placeholder.com/600x350",
+  image: ecommIng,
   github: "https://github.com/",
   live: "https://example.com/",
 },
@@ -43,7 +48,7 @@ const Project = () => {
   description:
     "A management system designed to handle patients, doctors, appointments and other hospital-related information.",
   technologies: "Java • MySQL • Spring Boot",
-  image: "https://via.placeholder.com/600x350",
+  image: hostitalIng,
   github: "https://github.com/",
   live: "https://example.com/",
 },
@@ -52,7 +57,7 @@ const Project = () => {
   description:
     "A weather application that allows users to search for a city and view current weather information using an external API.",
   technologies: "JavaScript • HTML • CSS • Weather API",
-  image: "https://via.placeholder.com/600x350",
+  image: wealIng,
   github: "https://github.com/",
   live: "https://example.com/",
 },

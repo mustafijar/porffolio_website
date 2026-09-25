@@ -32,9 +32,9 @@ const About = () => {
             </h3>
 
             <p className="text-gray-600 text-lg leading-relaxed mb-5">
-              I am a passionate Frontend Developer who enjoys creating
-              modern, responsive and user-friendly websites and web
-              applications.
+             I am a passionate Full Stack Developer who enjoys creating modern, responsive, and user-friendly websites and web applications.
+I have experience working with HTML, CSS, JavaScript, React, Tailwind CSS, Java, Node.js, MongoDB, and other modern frontend and backend technologies. I always try to learn new technologies and improve my development skills.
+My goal is to build useful, attractive, and efficient digital experiences while continuously growing as a developer and expanding my knowledge of frontend and backend development.
             </p>
 
             <p className="text-gray-600 text-lg leading-relaxed mb-5">
@@ -58,7 +58,7 @@ const About = () => {
             <div className="bg-white p-6 rounded-xl shadow-md text-center">
 
               <h3 className="text-3xl font-bold text-blue-600">
-                10+
+                20+
               </h3>
 
               <p className="text-gray-600 mt-2">
@@ -71,7 +71,7 @@ const About = () => {
             <div className="bg-white p-6 rounded-xl shadow-md text-center">
 
               <h3 className="text-3xl font-bold text-blue-600">
-                5+
+                10+
               </h3>
 
               <p className="text-gray-600 mt-2">
@@ -84,7 +84,7 @@ const About = () => {
             <div className="bg-white p-6 rounded-xl shadow-md text-center">
 
               <h3 className="text-3xl font-bold text-blue-600">
-                1+
+                2+
               </h3>
 
               <p className="text-gray-600 mt-2">

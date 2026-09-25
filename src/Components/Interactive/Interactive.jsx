@@ -52,11 +52,11 @@ const Interactive = () => {
         {/* Heading */}
         <div className="text-center mb-14">
           <p className="text-blue-600 font-semibold text-lg">
-            Interactive Section
+            {/* Interactive Section */}
           </p>
 
           <h2 className="text-4xl md:text-5xl font-bold text-gray-900 mt-2">
-            JavaScript <span className="text-blue-600">Lab</span>
+            Discount <span className="text-blue-600">System</span>
           </h2>
 
           <div className="w-20 h-1 bg-blue-600 mx-auto mt-4"></div>
